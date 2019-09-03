@@ -10,8 +10,6 @@ Pagoda is mobile app for finding hotel.
 <p float="left">
   <img src="https://sgnd.github.io/projects/mamikos/screens/one.png" width="200" height="350"/>
 
-  <img src="https://sgnd.github.io/projects/mamikos/screens/two.png" width="200" height="350"/>
-
   <img src="https://sgnd.github.io/projects/mamikos/screens/three.png" width="200" height="350"/>
 
   <img src="https://sgnd.github.io/projects/mamikos/screens/four.png" width="200" height="350"/>
