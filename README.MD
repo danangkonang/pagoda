@@ -52,7 +52,7 @@ $ react-native run-android #for android
 
 **Back-end:**
 ```
-$ cd pagoda/backend
+$ cd pagoda/backend #original back-end https://github.com/danangkonang/api-express-aplikasi-cari-koskosan
 $ yarn
 $ yarn start #run your server on http://localhost:3000
 ```
